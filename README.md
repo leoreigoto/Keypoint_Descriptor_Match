@@ -14,8 +14,6 @@ Compare keypoint descriptors and matches from 2 images of the same scene with di
 
 Python, Computer Vision, Machine Learning
 
-<b>Repository:</b> TO_DO
-
 Original images:
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/32aa97ac-6f01-41a7-b0fb-6172d3601409)
