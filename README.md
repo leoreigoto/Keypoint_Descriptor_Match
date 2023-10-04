@@ -1,10 +1,10 @@
-### Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs Shift)
+### Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT)
 
 <b>Objective</b>
 
 Compare keypoint descriptors and matches from 2 images of the same scene with different perpesctives using:
 
--Sift descriptor and keypoint extractor + BF KNN Matcher
+-SIFT descriptor and keypoint extractor + BF KNN Matcher
 
 -NN Method 1: Neural Network (maxpool layers) descriptor + Keypoints extractor + BF KNN Matcher
 
